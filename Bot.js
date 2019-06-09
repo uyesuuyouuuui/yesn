@@ -1,4 +1,4 @@
-/ Load up the discord.js library
+// Load up the discord.js library
 const Discord = require("discord.js");
 
 // This is your client. Some people call it `bot`, some people call it `self`, 
@@ -134,4 +134,4 @@ client.on("message", async message => {
   }
 });
 
-client.login(NTU1NzIxMjk2MzcwMDczNjAx.XP1BeA.aaY6VSvdBn0CKvOJJS6D4I0zXsQ)
+client.login(config.NTU1NzIxMjk2MzcwMDczNjAx.XP1BeA.aaY6VSvdBn0CKvOJJS6D4I0zXsQ)
